@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2023.18</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile/>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#0000FF,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#00FF00,C_BUTTON_Palette6=#0000FF,C_BUTTON_Palette7=#0000FF,C_BUTTON_Palette8=#0000FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#0000FF,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#00FF00,C_BUTTON_Palette6=#0000FF,C_BUTTON_Palette7=#0000FF,C_BUTTON_Palette8=#0000FF,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#0000FF,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#00FF00,C_BUTTON_Palette6=#0000FF,C_BUTTON_Palette7=#0000FF,C_BUTTON_Palette8=#0000FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFF00,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#0000FF,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#00FF00,C_BUTTON_Palette6=#0000FF,C_BUTTON_Palette7=#0000FF,C_BUTTON_Palette8=#0000FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFF00,C_BUTTON_Palette2=#FF00FF,C_BUTTON_Palette3=#0000FF,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#00FF00,C_BUTTON_Palette6=#0000FF,C_BUTTON_Palette7=#0000FF,C_BUTTON_Palette8=#0000FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFF00,C_BUTTON_Palette2=#FF00FF,C_BUTTON_Palette3=#00FFFF,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#00FF00,C_BUTTON_Palette6=#0000FF,C_BUTTON_Palette7=#0000FF,C_BUTTON_Palette8=#0000FF,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#0000FF,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#00FF00,C_BUTTON_Palette6=#0000FF,C_BUTTON_Palette7=#0000FF,C_BUTTON_Palette8=#0000FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#0000FF,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#00FF00,C_BUTTON_Palette6=#0000FF,C_BUTTON_Palette7=#0000FF,C_BUTTON_Palette8=#0000FF,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#0000FF,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#00FF00,C_BUTTON_Palette6=#0000FF,C_BUTTON_Palette7=#0000FF,C_BUTTON_Palette8=#0000FF,C_CHECKBOX_Palette5=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=Right,E_SLIDER_Bars_BarCount=2,E_TEXTCTRL_Bars_Cycles=0.0</Effect>
+    <Effect></Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="All" visible="1"/>
+    <Element collapsed="0" type="model" name="Line-7" visible="1"/>
+    <Element collapsed="0" type="model" name="Line-9" visible="1"/>
+    <Element collapsed="0" type="model" name="Line-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Line-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Line-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Line-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Line-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Line-1" visible="1"/>
+    <Element collapsed="0" type="model" name="Line-2" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer>
+        <Effect label="" startTime="0" endTime="10100"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="All">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="10150" endTime="17850" palette="0"/>
+        <Effect ref="1" name="On" selected="1" id="1" startTime="17850" endTime="21100" palette="0"/>
+        <Effect ref="1" name="On" id="2" startTime="21100" endTime="24700" palette="1"/>
+        <Effect ref="1" name="On" id="3" startTime="24700" endTime="26650" palette="2"/>
+        <Effect ref="1" name="On" id="4" startTime="26650" endTime="28600" palette="3"/>
+        <Effect ref="1" name="On" id="5" startTime="28600" endTime="29450" palette="4"/>
+        <Effect ref="1" name="On" id="6" startTime="29450" endTime="30100" palette="5"/>
+        <Effect ref="1" name="On" id="7" startTime="33450" endTime="40100" palette="6"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Line-7">
+      <EffectLayer>
+        <Effect ref="1" name="On" startTime="0" endTime="10100" palette="7"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Line-9">
+      <EffectLayer>
+        <Effect ref="1" name="On" startTime="0" endTime="10100" palette="8"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Line-8">
+      <EffectLayer>
+        <Effect ref="1" name="On" startTime="0" endTime="10100" palette="6"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Line-5">
+      <EffectLayer>
+        <Effect ref="1" name="On" startTime="0" endTime="10100" palette="7"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Line-6">
+      <EffectLayer>
+        <Effect ref="1" name="On" startTime="0" endTime="10100" palette="8"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Line-3">
+      <EffectLayer>
+        <Effect ref="1" name="On" startTime="0" endTime="10100" palette="6"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Line-4">
+      <EffectLayer>
+        <Effect ref="1" name="On" startTime="0" endTime="10100" palette="7"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Line-1">
+      <EffectLayer>
+        <Effect ref="1" name="On" startTime="0" endTime="10100" palette="8"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Line-2">
+      <EffectLayer>
+        <Effect ref="1" name="On" startTime="0" endTime="10100" palette="6"/>
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>
