@@ -50,9 +50,9 @@
     <storedLayoutGroup value="Default"/>
     <renderCacheDir value="C:\Data\Dev\AH\XlightBackups\RenderCache"/>
     <fseqDir value="C:\Data\Dev\AH\XlightData"/>
-    <defaultSeqView value=""/>
     <previewWidth value="1280"/>
     <previewHeight value="720"/>
+    <defaultSeqView value=""/>
   </settings>
   <colors>
     <DisabledEffect Red="200" Green="200" Blue="0"/>

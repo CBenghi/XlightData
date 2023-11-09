@@ -14,7 +14,7 @@
   </Options>
   <PlayList Name="Show">
     <PlayListStep Name="">
-      <PLIFSEQ FSEQFile="C:\Data\Dev\AH\XlightBackups\Fseq\DASH AWAY_GW EDIT 1.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name="" Priority="1"/>
+      <PLIFSEQ FSEQFile="C:\Data\Dev\AH\XlightData\DASH AWAY_GW EDIT 1.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="4000" Name="" Priority="1"/>
     </PlayListStep>
     <Schedule Name="Programme" DOW="MonTueWedThuFriSatSun" StartDate="2017-01-01" EndDate="2099-01-01" StartTime="04:08:00" EndTime="04:20:00" Priority="5" NthDay="1" NthDayOffset="0" OnOffsetMins="0" OffOffsetMins="0" FireFrequency="Fire once" Loop="TRUE" Loops="0" Enabled="TRUE"/>
   </PlayList>
