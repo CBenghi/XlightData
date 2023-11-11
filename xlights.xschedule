@@ -7,7 +7,6 @@
     <Button Label="Next Step" Command="Next step in current playlist" Parameters="" Hotkey="~" Color="default"/>
     <Button Label="End Gracefully" Command="Jump to play once at end at end of current step and then stop" Parameters="" Hotkey="~" Color="red"/>
     <Button Label="Add 10 Mins To Schedule" Command="Add to the current schedule n minutes" Parameters="10" Hotkey="~" Color="default"/>
-    <VMatrix Name="A" Width="33" Height="9" Rotation="Flip Vertical" PixelChannels="RGBW" Quality="Normal" WW="990" WH="270" X="996" Y="315" MatrixMultiplier="1" StartChannel="1"/>
     <Events/>
     <OSC MasterPath="/Timecode/%STEPNAME%" RemotePath="/Timecode/%STEPNAME%" IP="255.255.255.255" Time="Seconds (float)" Frame="Default (int)" ServerPort="9000" ClientPort="9000" TimeBased="True"/>
     <Test Mode="Alternate" Level1="255" Level2="0" Interval="500"/>
