@@ -16,6 +16,6 @@
     <PlayListStep Name="">
       <PLIFSEQ FSEQFile="C:\Data\AH\Xlights\2023 11 - Dunham massey\XlightData\DASH AWAY_GW EDIT 1.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="4000" Name="" Priority="1"/>
     </PlayListStep>
-    <Schedule Name="Programme" DOW="MonTueWedThuFriSatSun" StartDate="2017-01-01" EndDate="2099-01-01" StartTime="14:00:00" EndTime="20:00:00" Priority="5" NthDay="1" NthDayOffset="0" OnOffsetMins="0" OffOffsetMins="0" FireFrequency="Fire once" Loop="TRUE" Loops="0" Enabled="TRUE"/>
+    <Schedule Name="Programme" DOW="MonTueWedThuFriSatSun" StartDate="2017-01-01" EndDate="2099-01-01" StartTime="14:00:00" EndTime="23:00:00" Priority="5" NthDay="1" NthDayOffset="0" OnOffsetMins="0" OffOffsetMins="0" FireFrequency="Fire once" Loop="TRUE" Loops="0" Enabled="TRUE"/>
   </PlayList>
 </xSchedule>
