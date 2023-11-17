@@ -51,8 +51,8 @@
     <defaultSeqView value=""/>
     <previewWidth value="1280"/>
     <previewHeight value="720"/>
-    <fseqDir value="C:\Data\AH\Xlights\2023 11 - Dunham massey\XlightData"/>
-    <renderCacheDir value="C:\Data\AH\Xlights\2023 11 - Dunham massey\XlightData"/>
+    <fseqDir value="C:\Data\Dev\AH\XlightData"/>
+    <renderCacheDir value="C:\Data\Dev\AH\XlightData"/>
   </settings>
   <colors>
     <DisabledEffect Red="200" Green="200" Blue="0"/>
